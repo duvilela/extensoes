@@ -31,7 +31,7 @@ Como a extensão é distribuída no formato de código aberto descompactado, sig
 ## 🚀 Como Usar
 
 1. **Baixar Vídeo Único**:
-   - Abra o TikTok no navegador ([tiktok](tiktok)).
+   - Abra o TikTok no navegador.
    - Ao passar o mouse sobre os vídeos no feed ou ao abrir a página de um vídeo específico, você verá um botão de download (azul/verde) adicionado ao painel do vídeo.
    - Clique nele para baixar o vídeo diretamente sem marca d'água.
 2. **Integração com ChatGPT (IA)**:
